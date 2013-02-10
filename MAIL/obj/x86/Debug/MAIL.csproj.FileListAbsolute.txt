@@ -1,0 +1,15 @@
+E:\Programming_notes\C#\MAIL\MAIL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming_notes\C#\MAIL\MAIL\bin\Debug\MAIL.exe
+E:\Programming_notes\C#\MAIL\MAIL\bin\Debug\MAIL.pdb
+E:\Programming_notes\C#\MAIL\MAIL\obj\x86\Debug\MAIL.exe
+E:\Programming_notes\C#\MAIL\MAIL\obj\x86\Debug\MAIL.pdb
+E:\prog_projects\C#\Mail\MAIL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\prog_projects\C#\Mail\MAIL\obj\x86\Debug\MAIL.exe
+E:\prog_projects\C#\Mail\MAIL\bin\Debug\MAIL.exe
+E:\prog_projects\C#\Mail\MAIL\bin\Debug\MAIL.pdb
+E:\prog_projects\C#\Mail\MAIL\obj\x86\Debug\MAIL.pdb
+E:\prog_projects\C#\copy of Mail\MAIL\bin\Debug\MAIL.exe
+E:\prog_projects\C#\copy of Mail\MAIL\bin\Debug\MAIL.pdb
+E:\prog_projects\C#\copy of Mail\MAIL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\prog_projects\C#\copy of Mail\MAIL\obj\x86\Debug\MAIL.exe
+E:\prog_projects\C#\copy of Mail\MAIL\obj\x86\Debug\MAIL.pdb
